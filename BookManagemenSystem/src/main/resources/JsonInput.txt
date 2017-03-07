@@ -1,0 +1,32 @@
+   {
+   	
+   	"books":{
+   		
+   		"bookId": 3,
+        "author": "Siva",
+        "title": "GGG",
+        "available": "Yes",
+        "price": "120",
+        "publisher":{
+        	"publisherId":"300",
+        	 "address":"Hyd",
+			  "publisherName":"publisher1"
+        }
+   		
+   	},
+	"member":{
+		
+		"memberId": 200,
+	    "memmberdate":"2015-07-05T22:16:18Z",
+	    "memberType":"Temp",
+	    "memberName": "Dileepember",
+	    "address": "Hyd-sec",
+	    "expDate":"2018-07-05T22:16:18Z"
+		
+	},
+
+	"returnDate":"2017-04-05T22:16:18Z",
+	"dueDate":"2017-05-05T22:16:18Z",
+	"issue":"Lost"
+	
+   }
